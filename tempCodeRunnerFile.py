@@ -1,1 +1,4 @@
-print(n)
+print('enter 3 numbers')
+# a= int (input())
+# b= int (input())
+# c= int (input())
