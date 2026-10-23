@@ -31,3 +31,8 @@ print(index)
 
 numbers.sort()
 print(numbers)
+
+
+#index
+for i, num in enumerate(numbers):
+    print(i, num)
